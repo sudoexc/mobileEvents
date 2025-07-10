@@ -47,3 +47,5 @@ window.addEventListener('DOMContentLoaded', () => {
 // для свайпов для щепотка зумить экран тачи и нужны
 
 // 1.0
+
+// 2.0
